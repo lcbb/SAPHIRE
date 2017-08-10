@@ -1,0 +1,5 @@
+Compile the C version of hmm_forward to get an execution speedup.
+
+http://www.mathworks.com/support/compilers/R2014b/index.html;jsessionid=4a66ec0c9fcc1c10d6797c88872a
+
+Run make_hmm_forward_c.m
